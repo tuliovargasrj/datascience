@@ -50,6 +50,10 @@ This project focuses on data exploration, preprocessing, data analysis, and pred
 
 This project focuses on data exploration, preprocessing, data analysis, and prediction of game scores for the next season in the Premier League. We believe that this project will provide valuable insights into the performance of the teams and the players.
 
+### Churn
+
+This project focuses on analyzing customer churn for a bank company. The goal is to identify the factors that contribute to customer churn and to develop a predictive model that can be used to identify customers who are at risk of churning. The project will involve data exploration, preprocessing, feature engineering, model selection, and evaluation.
+
 
 ## Contributing
 
