@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/dorequirements.ipynb
+src/reqs/churn_models.py
