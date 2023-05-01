@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 src/dorequirements.ipynb
 src/reqs/churn_models.py
+src/nlp/amazon_reviews_sequence.ipynb
