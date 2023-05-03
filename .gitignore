@@ -130,3 +130,5 @@ dmypy.json
 src/dorequirements.ipynb
 src/reqs/churn_models.py
 src/nlp/amazon_reviews_sequence.ipynb
+src/classification/athletics.pdf
+src/classification/athletics.html
